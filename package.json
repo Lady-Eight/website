@@ -1,0 +1,16 @@
+{
+  "name": "website-mas9",
+  "version": "1.0.0",
+  "description": "Judith Mwangi - Civil & Water Engineer portfolio website",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "preview": "python3 -m http.server 8000"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Judith Mwangi",
+  "license": "UNLICENSED"
+}
